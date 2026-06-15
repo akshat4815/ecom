@@ -1,4 +1,4 @@
-import { AdminLayout } from "@/components/AdminLayout"
+import  AdminLayout from "@/components/AdminLayout"
 import ChildrenInterface from "@/interface/children.interface"
 import { FC } from "react"
 
